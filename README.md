@@ -1,7 +1,6 @@
-<center>
-<h2>Java Dersleri</h2>
-Bu repo'da, başlangıç seviyesindeki kullanıcılar için yazılmış Java notları ve örnek kodları bulunacaktır. Bu notların yazılmasına vesile olan sevgili dostum B.K.'ye buradan en içten sevgilerimi yolluyorum.
-</center>
+<h2 align="center">Java Dersleri</h2>
+<div style="text-align: justify">Bu repo'da, başlangıç seviyesindeki kullanıcılar için yazılmış Java notları ve örnek kodları bulunacaktır. Bu notların yazılmasına vesile olan sevgili dostum B.K.'ye buradan en içten sevgilerimi yolluyorum.
+</div>
 
 ## İçindekiler
 
