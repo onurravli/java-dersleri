@@ -1,8 +1,6 @@
 <h1 align="center">Java Dersleri</h1>
 </div>
-<div style="text-align: justify">Bu repo'da, başlangıç seviyesindeki kullanıcılar için yazılmış Java notları ve örnek kodları bulunacaktır.
-
-> Bu notların yazılmasına vesile olan sevgili dostum B.K.'ye buradan en içten sevgilerimi yolluyorum.
+<div style="text-align: justify">Bu repo'da, başlangıç seviyesindeki kullanıcılar için yazılmış Java notları ve örnek kodları bulunacaktır. Bu notların yazılmasına vesile olan <i>sevgili dostum B.K.'ye</i> buradan en içten sevgilerimi yolluyorum.</div>
 
 ## İçindekiler
 
